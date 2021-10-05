@@ -1,11 +1,11 @@
 {
-Name: "Mitskevich Dmitry",
-Age: 39,
-Pets: 0,
-Guba: "6000$ - да да, губа не треснет :)",
-  Film: "Игры разума",
-  Serial: "Friends",
-  Food: "Pizza",
-  Season: "Summer",
-  Country: "Singapure"
+"Name": "Mitskevich Dmitry",
+"Age": 39,
+"Pets": 0,
+"Guba": "6000$ - да да, губа не треснет :)",
+  "Film": "Игры разума",
+  "Serial": "Friends",
+  "Food": "Pizza",
+  "Season": "Summer",
+  "Country": "Singapure"
 }
