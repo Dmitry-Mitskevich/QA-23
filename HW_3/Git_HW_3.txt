@@ -43,14 +43,14 @@ touch BugReport.txt
 4.
 git add BugReport.txt
 git commit -m "add file BugReport.txt"
-git push -u origin Bug_Reports
+git push
 
 5. 
 git checkout Master
 git merge Bug_Reports
 
 6. 
-git push -u origin Master
+git push
 
 7. 
 git checkout CheckLists
@@ -60,7 +60,7 @@ touch CheckList.txt
 8.
 git add CheckList.txt
 git commit -m "add new file CheckList.txt"
-git push -u origin CheckLists
+git push
 
 9. 
 <<На внешнем репозитории сделать Pull Request ветки CheckLists в main>>
